@@ -1,0 +1,24 @@
+.single-content{
+    margin-top: 10%;
+}
+.img-single{
+    width: 100%;
+    object-fit: cover;
+}
+.back{
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 7px;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    -ms-border-radius: 7px;
+    -o-border-radius: 7px;
+    background-color: var(--main-color);
+    color: var(--light-color);
+}
+.update{
+    background-color: var(--color-two);
+}
+.div-update{
+    text-align: end;
+}
